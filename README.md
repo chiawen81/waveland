@@ -11,4 +11,4 @@
 4. 公版：public-final.css、全站商品小卡分散於 product-list.php、group-list.php、buy-start.php、buy-finish.php
 
 
-ps.素材均為網路圖片，無商業用途，若有侵權敬請來信告知 fangchiawen@gmail.com
+ps.本專案無商業用途，若有侵權敬請來信告知 fangchiawen@gmail.com
